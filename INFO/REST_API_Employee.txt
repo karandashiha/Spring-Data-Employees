@@ -21,7 +21,7 @@ http://localhost:8080/api/v1/employees
 {
 	"firstName": "Alice",
 	"lastName": "Cooper",
-	"position": "HR"
+	"position": "HR",
 	"phone": "098 323-6541"
 }
 
@@ -29,7 +29,7 @@ http://localhost:8080/api/v1/employees
 {
 	"firstName": "Bob",
 	"lastName": "Custer",
-	"position": "Team Lead"
+	"position": "Team Lead",
 	"phone": "098 555-7777"
 }
 
@@ -37,7 +37,7 @@ http://localhost:8080/api/v1/employees
 {
 	"firstName": "Mary",
 	"lastName": "Saxon",
-	"position": "Designer"
+	"position": "Designer",
 	"phone": "068 333-6521"
 }
 
@@ -45,7 +45,7 @@ http://localhost:8080/api/v1/employees
 {
 	"firstName": "Anna",
 	"lastName": "Parra",
-	"position": "Engineer"
+	"position": "Engineer",
 	"phone": "045 113-6009"
 }
 
